@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+data/
+models/
